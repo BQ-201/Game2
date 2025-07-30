@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="48dp" android:viewportHeight="48"
+    android:viewportWidth="48" android:width="48dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background circle -->
+    <path android:fillColor="#7C3AED"
+        android:pathData="M24,24m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0"/>
+    
+    <!-- Spaceship -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M24,12L28,32L26,36L22,36L20,32Z"/>
+    
+    <!-- Cockpit -->
+    <path android:fillColor="#06B6D4"
+        android:pathData="M24,17m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0"/>
+    
+    <!-- Stars -->
+    <path android:fillColor="#FDE047"
+        android:pathData="M15,15L16,16L15,17L14,16Z"/>
+    <path android:fillColor="#FDE047"
+        android:pathData="M33,12L34,13L33,14L32,13Z"/>
+    <path android:fillColor="#FDE047"
+        android:pathData="M12,35L13,36L12,37L11,36Z"/>
+    <path android:fillColor="#FDE047"
+        android:pathData="M36,33L37,34L36,35L35,34Z"/>
+</vector>

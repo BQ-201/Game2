@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Space Explorer</string>
+    <string name="play_game">Играть</string>
+    <string name="high_score">Лучший результат</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выход</string>
+    <string name="game_over">Игра окончена!</string>
+    <string name="score">Счет: %d</string>
+    <string name="restart">Играть снова</string>
+    <string name="main_menu">Главное меню</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="sound_on">Звук включен</string>
+    <string name="sound_off">Звук выключен</string>
+    <string name="loading_ad">Загрузка рекламы...</string>
+    <string name="collect_bonus">Собирайте бонусы!</string>
+    <string name="avoid_asteroids">Избегайте астероидов!</string>
+    <string name="new_high_score">Новый рекорд!</string>
+    
+    <!-- AdMob Test IDs -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Space theme colors -->
+    <color name="space_dark">#0D1421</color>
+    <color name="space_blue">#1E3A8A</color>
+    <color name="space_purple">#7C3AED</color>
+    <color name="space_cyan">#06B6D4</color>
+    <color name="space_green">#10B981</color>
+    <color name="space_orange">#F59E0B</color>
+    <color name="space_red">#EF4444</color>
+    <color name="space_yellow">#FDE047</color>
+    <color name="space_gray">#374151</color>
+    <color name="space_light_gray">#6B7280</color>
+    
+    <!-- UI colors -->
+    <color name="button_primary">#7C3AED</color>
+    <color name="button_secondary">#1E3A8A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#D1D5DB</color>
+    <color name="background_overlay">#80000000</color>
+</resources>
